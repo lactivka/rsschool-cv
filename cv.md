@@ -25,3 +25,25 @@
             System.out.println("Welcome to Java!");
         }
     }
+
+##### Experience 
+    
+   1.  HTML/CSS on Codecademy.com
+   2.  Coding on Java (projects on JavaRush)
+   3.  Coding on C++ (examples on JavaRush)
+   4.  HTML/CSS on htmlacademy.ru
+
+##### Education
+    
+* 2005-2010 Odessa National A.S. Popov Academy of Telecommunications, Department of Information        Networks, Master's Degree in Telecomunications
+
+* 2007-2010 Odessa National A.S. Popov Academy of Telecommunications, Department of Economics          and Management, Master's Degree in Management of Telecomunications
+
+*  Online courses on JavaRush, 16 levels
+
+*  Introduction to HTML/CSS on Codecademy.com
+
+*  First and second stage on RSSchool 2019 Q3
+
+##### English
+   Pre-Intermediate
